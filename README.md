@@ -1,7 +1,7 @@
 # Pong (Unity Recreation)
 A minimalist recreation of the classic Pong game using Unity, made purely for fun and to learn game development concepts.
 
-## 🎮 Features
+## ✨ Features
 
 - Customizable game rules:
   - Set the **points needed to win each round**.
